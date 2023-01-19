@@ -1,0 +1,2401 @@
+fileFormatVersion: 2
+guid: 925a6665660a5ba4d8981c4cb4fa4540
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papou_finish (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1972
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482e49e7844abb46b08918dc41dc807
+      internalID: 478476874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1939
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39937a1d087314da7910149dd5acd5
+      internalID: 2056779063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1908
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73360b0c6ae8ca04691936e689ac9d61
+      internalID: -142650741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1799
+        width: 44
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9763b0b6719340a43f8b8bd533280
+      internalID: -1093499324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1876
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc92b85718a58164cbe2856237ca75d8
+      internalID: 1204994481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1829
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19217425ab1a8994697012b2f38c05ea
+      internalID: 579629814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1829
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad02c3a9a61bb4bafbb706260df8a7
+      internalID: 1142985390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1829
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d4c7a2eb00e84081ec208322f42da
+      internalID: -364775524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1797
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc88a02e0eff541b2081e4fdb162c2
+      internalID: 1713085744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1799
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54de6e6ad82d4974e9395c87c78d2d5f
+      internalID: -1188637210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1799
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723e736c3a52264b8cf44cc941cb85f
+      internalID: 249443123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1796
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a037b0e43aa1d646bee223a1c9c3ce4
+      internalID: 1793660844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1799
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e279bf039e429294caf2250f2eb0c9ff
+      internalID: 1331101809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1799
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86542b1a3cfce14fb78ce2e32e12d7b
+      internalID: -59384079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1816
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473200017d67a243b08947c444f32f6
+      internalID: 1202987254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1801
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45478f3cd0a88c439d0cab2bfe59019
+      internalID: 1259962939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1599
+        width: 5
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6eb50f72a9455418472e2cacf7d068
+      internalID: 849456659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1766
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e32e305dbd5b43b9bab1a63099753
+      internalID: 374061718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1767
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d87bae38ff8443937ce6045c9bbde
+      internalID: 90554625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1766
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8417fadf2fef67e41bb3e1721f28e7fb
+      internalID: 1744563894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1767
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ce6a202242cea4587c2d50d3b32505
+      internalID: -286685183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1734
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b6d8a23f63ae41a5b8cfa2f20e689
+      internalID: -1903633778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1735
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d514c64a4c75e3a4ebcb163abf0f25c3
+      internalID: 2081313984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1734
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8c22d9bc216a489afca11efadeb52
+      internalID: -887688069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1735
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120feff96d177be43a136d5be2a94595
+      internalID: -1458164286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1685
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394c8dd1fb1a75479fd082f4d78c8ea
+      internalID: 1690316807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1686
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5490ce71747dff4a8e2a30b8eceb768
+      internalID: -357085870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1686
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ceae92c671624da99fb1c519f457d
+      internalID: -546359281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1716
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045c8a0862b695a44906631778f43267
+      internalID: 340386549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1686
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676432e8ac42f484b9b32d40f3bb0167
+      internalID: 877644684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1644
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27739942cca03429ea0b53e41e0843
+      internalID: -968502067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1642
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f5e43bf0c4fd48b26dddcee26f5d2
+      internalID: 146810513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1647
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f70f34f315039e4f843c686bae8724c
+      internalID: 1011557221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1642
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9646b7f06d98164bb4c5519a8814f27
+      internalID: -409938698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1644
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce047c3d88daa42b8ad1e2616be7c7
+      internalID: 648510216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1604
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8ea6955a8be64eb0d9c2486b1de5f
+      internalID: 117487419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1615
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e6ab74c393bb4fb618d628d95008c
+      internalID: 1076399126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1616
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7dc3628a4cd0a4dbddfae0ae6add02
+      internalID: -1975075412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1578
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623a1ef43e728e46a03574da24f0129
+      internalID: -1539084602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1578
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3bd902f0fac9141bb4b20320d229e5
+      internalID: 1192692465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1575
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0dfbc54f500e94ba5e3d839af8bf2e
+      internalID: 1803705894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1570
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64502f5e3e7e0344483daa6bb32faf73
+      internalID: 1936081042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1529
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d945e4480812ec4bb75f185b923f9bf
+      internalID: 1671508118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1530
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8c78773ba2144d8a80fd3bb152954
+      internalID: 321106159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1527
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5507b0d769d16c546868df2f00645fdd
+      internalID: -934081671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1483
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070ad961051a454fb372362837089de
+      internalID: 1357403008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1481
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8cf2e160c0ff45a7cff0d1969d6f5
+      internalID: -1429469668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1451
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbcf14aea6b2a641bc508664c943cf8
+      internalID: -1972694909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1419
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946f7f82883fdd4ca0bd244e92809ba
+      internalID: -152978047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1387
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60e4f2086cf704fbdfa26a5963e192
+      internalID: -411180899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1346
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b64b74a42e3040b7b7454fe8fb793
+      internalID: -1327085621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1354
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc04ae2142b0a24ab3ff7cc07e92f45
+      internalID: -1271007574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1322
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f8db5a25201945934881bbba77d73
+      internalID: 220380101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1322
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc45b79d672e664e91cf88093048a1c
+      internalID: -232733687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1320
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df67217c59e37e45a826ed3b0ecb10a
+      internalID: 209681835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1313
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33912d69593a5e449a959d376a7faae9
+      internalID: 1168756657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1275
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd3d0cec1141e4e9283ebe0d38d45d
+      internalID: 1732921285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1275
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3baead77796e4cacce98659e07d20
+      internalID: 181830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1275
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf2bab4b815bb4586f3fad3137232b
+      internalID: -255897168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1274
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf8a38222bfe848a7da25285a426a9
+      internalID: 1972334974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1274
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765be8f9839645c42b7b3193600c5bc7
+      internalID: -97222121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1243
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52976616e85294398776123ec57632
+      internalID: 1334613545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1243
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33edce299e0eef4cb71987483e8401e
+      internalID: -1567653058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1243
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc6a6a9a51f224c82da0bed7a127e6
+      internalID: -1907279729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1242
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2adcdab428c5d4e9108904f33c1b2c
+      internalID: 237563139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1242
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75cca7fd9a5a9498149afcbd18c03c
+      internalID: -1999426531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b2f1edb802d0468944b9df2af2ad6
+      internalID: 963292105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802eb0c2de39ab74296cf69daf45bda8
+      internalID: 892262605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8bec230cdab946bb73044d10ff730
+      internalID: 816349097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1198
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4eacb37afc824094a1be21d4485b0
+      internalID: 34207871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041351a8d379c7479d3fd5cee8fd9d7
+      internalID: -514868907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf03a81ae9f614090c329ec4229398
+      internalID: 2132898322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f76df821c25243a15c79ac1be9045
+      internalID: -1056880425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1198
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed732c1afd64294d8ba3fbacdd2a038
+      internalID: 1489579544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cfd8683556bae44bed6e6778318dda
+      internalID: 369898238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129ed03b5e684745a7c6df594d38d11
+      internalID: -118909658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e572555f3ff8c34590b4b01a7e28b23
+      internalID: 1496778765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54c811788faf643b397b21711f3f23
+      internalID: -1131100292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1ad5e834f9664f9e84b46509b1206
+      internalID: -1312187906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_80
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866b6d3bca74b54589b01bc60330ba9
+      internalID: -495797161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f02b13eb141814f81a49e1aaf05496
+      internalID: 799761461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd820096c0ec6c41bbf166ca39a50df
+      internalID: -284399128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1134
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b734ddae3514dd41ae283ec049583d8
+      internalID: 1861002989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_84
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1134
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf96c34b8cc2842b4ceb0da56e11dd
+      internalID: 16380426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86eaeb22f1e49848a29829dd04f237c
+      internalID: 856408796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1134
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc623d593de580e4aa75cb20bacf63e1
+      internalID: 321938853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1134
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5bf31b64d2473479650fede7a8e7b1
+      internalID: -1468282962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae401e0b9bdc1cc43a5360fb240cc6c5
+      internalID: -55009074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_89
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25134631621c9994984cb0565571216c
+      internalID: -953297724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1134
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f727e19b63cd43bcbd99156104dbe
+      internalID: 272245804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1102
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a17fd27df7d694395a5d1516e07613
+      internalID: -798318646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad8092051c8cd749b9a67a549971088
+      internalID: -1618041476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f40401d6ab3b0b45a3059a3916fa4a2
+      internalID: 1810395494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1102
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b381aaf6116f4ba97a138ee9070c4
+      internalID: 832428798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1102
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b89e79a5f099f4b8e382dcd13de52a
+      internalID: 257707047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24293672508dfc14d92f2fed79772cfd
+      internalID: -298499103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9cb885a2cd7344a75de852d2c9b56
+      internalID: -1119358839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1102
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5e488c6b9596498c3e64b9c3d7804
+      internalID: 1530599897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_99
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 977
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa9f41955a6444ab72612b4cdb3a59
+      internalID: -969367163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_100
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 970
+        width: 74
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f234a692a328548b4b9d287a896ebe
+      internalID: 1885046082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1829
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8360cdb4db4ce45850a5d60ac51434
+      internalID: -1519352097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1830
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652b8a638bebe1498e368ab6446ae2b
+      internalID: -361800716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papou_finish (1)_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1831
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0fc2c1526e9f94c9712e4142ca5309
+      internalID: 2138787100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      papou_finish (1)_3: -1093499324
+      papou_finish (1)_55: 209681835
+      papou_finish (1)_18: 374061718
+      papou_finish (1)_22: -1903633778
+      papou_finish (1)_65: 237563139
+      papou_finish (1)_36: 117487419
+      papou_finish (1)_59: -255897168
+      papou_finish (1)_38: -1975075412
+      papou_finish (1)_61: -97222121
+      papou_finish (1)_96: -298499103
+      papou_finish (1)_102: 2138787100
+      papou_finish (1)_45: -934081671
+      papou_finish (1)_50: -411180899
+      papou_finish (1)_48: -1972694909
+      papou_finish (1)_86: 321938853
+      papou_finish (1)_16: 1259962939
+      papou_finish (1)_81: 799761461
+      papou_finish (1)_75: 369898238
+      papou_finish (1)_80: -495797161
+      papou_finish (1)_60: 1972334974
+      papou_finish (1)_63: -1567653058
+      papou_finish (1)_31: -968502067
+      papou_finish (1)_73: -1056880425
+      papou_finish (1)_93: 1810395494
+      papou_finish (1)_24: -887688069
+      papou_finish (1)_27: -357085870
+      papou_finish (1)_4: 1204994481
+      papou_finish (1)_46: 1357403008
+      papou_finish (1)_88: -55009074
+      papou_finish (1)_47: -1429469668
+      papou_finish (1)_10: -1188637210
+      papou_finish (1)_34: -409938698
+      papou_finish (1)_6: -1519352097
+      papou_finish (1)_43: 1671508118
+      papou_finish (1)_98: 1530599897
+      papou_finish (1)_82: -284399128
+      papou_finish (1)_101: -361800716
+      papou_finish (1)_74: 1489579544
+      papou_finish (1)_7: 1142985390
+      papou_finish (1)_85: 856408796
+      papou_finish (1)_20: 1744563894
+      papou_finish (1)_35: 648510216
+      papou_finish (1)_52: -1271007574
+      papou_finish (1)_94: 832428798
+      papou_finish (1)_13: 1331101809
+      papou_finish (1)_15: 1202987254
+      papou_finish (1)_49: -152978047
+      papou_finish (1)_76: -118909658
+      papou_finish (1)_70: 34207871
+      papou_finish (1)_42: 1936081042
+      papou_finish (1)_57: 1732921285
+      papou_finish (1)_78: -1131100292
+      papou_finish (1)_67: 963292105
+      papou_finish (1)_68: 892262605
+      papou_finish (1)_95: 257707047
+      papou_finish (1)_79: -1312187906
+      papou_finish (1)_51: -1327085621
+      papou_finish (1)_28: -546359281
+      papou_finish (1)_87: -1468282962
+      papou_finish (1)_71: -514868907
+      papou_finish (1)_69: 816349097
+      papou_finish (1)_0: 478476874
+      papou_finish (1)_2: -142650741
+      papou_finish (1)_41: 1803705894
+      papou_finish (1)_11: 249443123
+      papou_finish (1)_32: 146810513
+      papou_finish (1)_100: 1885046082
+      papou_finish (1)_92: -1618041476
+      papou_finish (1)_56: 1168756657
+      papou_finish (1)_29: 340386549
+      papou_finish (1)_72: 2132898322
+      papou_finish (1)_89: -953297724
+      papou_finish (1)_84: 16380426
+      papou_finish (1)_25: -1458164286
+      papou_finish (1)_8: -364775524
+      papou_finish (1)_30: 877644684
+      papou_finish (1)_53: 220380101
+      papou_finish (1)_97: -1119358839
+      papou_finish (1)_21: -286685183
+      papou_finish (1)_19: 90554625
+      papou_finish (1)_54: -232733687
+      papou_finish (1)_64: -1907279729
+      papou_finish (1)_99: -969367163
+      papou_finish (1)_90: 272245804
+      papou_finish (1)_83: 1861002989
+      papou_finish (1)_40: 1192692465
+      papou_finish (1)_37: 1076399126
+      papou_finish (1)_66: -1999426531
+      papou_finish (1)_91: -798318646
+      papou_finish (1)_33: 1011557221
+      papou_finish (1)_1: 2056779063
+      papou_finish (1)_23: 2081313984
+      papou_finish (1)_39: -1539084602
+      papou_finish (1)_44: 321106159
+      papou_finish (1)_14: -59384079
+      papou_finish (1)_77: 1496778765
+      papou_finish (1)_5: 579629814
+      papou_finish (1)_58: 181830897
+      papou_finish (1)_62: 1334613545
+      papou_finish (1)_26: 1690316807
+      papou_finish (1)_17: 849456659
+      papou_finish (1)_12: 1793660844
+      papou_finish (1)_9: 1713085744
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
