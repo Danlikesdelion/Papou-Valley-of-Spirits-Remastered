@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/StartMenu.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 8ce3cf8a8f304ac43a8bb15cfc354571
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Land.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Donjon.unity
+    path: Assets/Scenes/Cave.unity
     guid: f44f439a0655e604080f227436fdee1f
   m_configObjects: {}

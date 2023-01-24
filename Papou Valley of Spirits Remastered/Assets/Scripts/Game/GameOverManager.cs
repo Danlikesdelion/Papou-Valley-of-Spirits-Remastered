@@ -6,7 +6,7 @@ public class GameOverManager : MonoBehaviour
 {
 
     public GameObject gameOverUI;
-    public string mainMenu;
+    public string MainMenu;
 
     public static GameOverManager instance;
     private void Awake()
@@ -34,7 +34,7 @@ public class GameOverManager : MonoBehaviour
 
     public void MainMenuButton()
     {
-        SceneManager.LoadScene(mainMenu);
+        SceneManager.LoadScene(MainMenu);
         Time.timeScale = 1f;
     }
 

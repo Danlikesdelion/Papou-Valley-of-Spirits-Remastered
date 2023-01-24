@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 21b3feb6bd9bc714fa01bbb35c8d73c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e91595494d81247940a4054a51258a
+      internalID: -84667067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 162
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77bfa6f1ac8e24f8842ff0d81d9946
+      internalID: -1141621611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 162
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c98271db52a64cacc352fa7132685
+      internalID: -55454154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6c4b40ad1f604d86ef47c355a15ff
+      internalID: 1106337183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16027280cbb1d45b030ef6def93161
+      internalID: -841168169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1978b0b07737c4fbe6a63921f967f1
+      internalID: -1074537938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936d83559e573a49a03bea0473d5916
+      internalID: -1586680560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fc9eddd995d94da7c803d805bb637
+      internalID: -1492488157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a20d2880443f84183547046a8edc26
+      internalID: 861076839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7162840b6e1ee6f49b28c039b49aa613
+      internalID: -50525477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a551126b2a0c45af6635149fb8671
+      internalID: 1348317667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 130
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe21484e120e14bba5a0b62d70db70
+      internalID: 1779545596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10389270ac0cac045a73abcb7ec1dbf8
+      internalID: 458207041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e8bebc7f5e0046977fc47f4936311
+      internalID: 1593681010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 98
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be81eba41d11d47bbb0b3d726f712f
+      internalID: 897730156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 97
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a5143badda2004abdfdf21e5746d58
+      internalID: 1075992148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebed1b55bdf94a489be05e2c54eac30
+      internalID: 553795644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 97
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a974b4089868d4380b0c1e163b4c73
+      internalID: -535670439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc579d3063bc3e4993fdd303acd4591
+      internalID: 1454712337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363ffb2e9817374eb8951deb794424c
+      internalID: -1367772459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5ca8da3cecc348bd898951a2d2c06
+      internalID: 1894477197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 67
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c069e02a8ef1d64593ccf442062a247
+      internalID: -637924631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 66
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa2288eb905bfe4e8e330eebf45f065
+      internalID: 1418764497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_15: 1075992148
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_17: -535670439
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_3: 1106337183
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_5: -1074537938
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_22: 1418764497
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_9: -50525477
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_14: 897730156
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_8: 861076839
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_12: 458207041
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_16: 553795644
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_11: 1779545596
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_1: -1141621611
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_21: -637924631
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_20: 1894477197
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_7: -1492488157
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_2: -55454154
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_10: 1348317667
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_19: -1367772459
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_0: -84667067
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_4: -841168169
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_18: 1454712337
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_6: -1586680560
+      boombox_seek_fini_enemi_whoohoo_tim_meilleur_gd_13: 1593681010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
