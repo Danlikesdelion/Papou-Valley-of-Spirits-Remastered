@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class GameOverManager : MonoBehaviour
 {
 
-    public GameObject gameOverUI;
+    public GameObject gameOverMenu;
     public string MainMenu;
 
     public static GameOverManager instance;
@@ -21,7 +21,7 @@ public class GameOverManager : MonoBehaviour
     }
     public void OnPlayerDeath()
     {
-        gameOverUI.SetActive(true);
+        gameOverMenu.SetActive(true);
     }
 
     public void RetryButton()
@@ -29,7 +29,7 @@ public class GameOverManager : MonoBehaviour
         Inventory.instance.AddCoins(CurrentSceneManager.instance.coinsPickedInThisSceneCount);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         
-        gameOverUI.SetActive(false);
+        gameOverMenu.SetActive(false);
     }
 
     public void MainMenuButton()

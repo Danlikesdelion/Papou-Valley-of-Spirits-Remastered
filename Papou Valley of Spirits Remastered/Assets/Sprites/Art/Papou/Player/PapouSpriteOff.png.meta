@@ -1,0 +1,2687 @@
+fileFormatVersion: 2
+guid: 87375763a5ef20b4faed5f8a4606b3e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PapouSpriteOff_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1972
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fd2047b900544d804d0ad4ea30641
+      internalID: -1110143336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1939
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38352df1faa7bac4da2ce74f036c9079
+      internalID: -1711393487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1908
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31753ca8fbbdf4e8a08ba360d2adc0
+      internalID: -704353804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1831
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b286969c6ca441aafc5b2c28df6b9
+      internalID: 74623534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1877
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477438b3043fd2442aa1ee77ecb05787
+      internalID: -1500238416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1829
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4609663749ea47aa9dad93fab1edc
+      internalID: 344603967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1829
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd86bf0602e354d9e38dd21daaeb10
+      internalID: 1942143067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1829
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10d582c3d44e7440bc58719a94305c7
+      internalID: 1758116774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1829
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee53ea26f1cd24fa8c669552f9ef27
+      internalID: 1303202194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1798
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d705cdaa382b442b6227df0aea383a
+      internalID: -2140233368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1799
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ae6ad6ed47f8488958df87b02df8a
+      internalID: -1402396420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1799
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1313c0fb722c25449ba60c4891a22169
+      internalID: 1623459126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473891c983df4946b28a470dfd87934
+      internalID: 1048814320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1799
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386dd5bdc08f2f4b94683a42ef3c778
+      internalID: 919514175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1799
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f176c9e27581e4a8dd1ff6b2b9a7f3
+      internalID: 1869192317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1766
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5869e21f087014b4db6844e50dd4cb8f
+      internalID: -23843360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1767
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28b08e521acab4da9be1579d45ba1a
+      internalID: 1161432586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1766
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dd88449eceb1444b14138536a89005
+      internalID: -1033070805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1767
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9ba046917d9d4487b71db9f7ffd94
+      internalID: -1172119684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1734
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5978ef63c9434ca1e4de608375178
+      internalID: 1206707670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1736
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe655ce452a678418ce3090ca9ccc96
+      internalID: -1465348322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1734
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d59048dab2c7da42a9952ad88bab216
+      internalID: 1439186133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1736
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c12b32a7618a942bc0fd7d028b3ab5
+      internalID: 98898619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1687
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3058902, y: 0.37867737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8810a69dbc7af24d82614c1e0e920f3
+      internalID: 572690350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1687
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.66175723, y: 0.348349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2847a5a750883b340b06edc0247a2f42
+      internalID: 632563205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1354
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2770afddc73f478ef0c64a8315ed5
+      internalID: -1560066171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1687
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.70916855, y: 0.39070088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a49a8172d8a542b3be04f1b437e61
+      internalID: -1773706249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1685
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.39890108, y: 0.49999592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b05225201c71489dd3385f843e6dd
+      internalID: -56013132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1652
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7264606, y: 0.53109974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29fa13ab283ba42808be42991ef19d
+      internalID: -785767979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1642
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.702547, y: 0.582673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb664c1309242c4aa0d432c2cd9337a
+      internalID: -920778791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1354
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290e2da52cb8534e89af65a2e0430ea
+      internalID: 1724746741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1642
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.33603394, y: 0.6309012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64958a2b2ed0adc41b62e1f2a58424c2
+      internalID: 613140147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1644
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2681474, y: 0.60960436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9e1180abea7c479b472bb3b0ca399
+      internalID: 2046539520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1578
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.62580556, y: 0.47667277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4d47182fa5d840bdb26301ed6b854
+      internalID: 847146841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1578
+        width: 34
+        height: 27
+      alignment: 9
+      pivot: {x: 0.64183944, y: 0.44642016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9da4c5bc3cc44abee411aecac7516
+      internalID: 1783937094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1575
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7119002, y: 0.5267967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14497c4f2ce87864f865ed662d7dd8d0
+      internalID: 1452565646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1572
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.66075236, y: 0.572347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57eb5574007cf478e6d396e906c2f6
+      internalID: -570962030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1529
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.34817928, y: 0.55358887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809dc06da81143a40ad9690db24878a6
+      internalID: 796507449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1530
+        width: 34
+        height: 27
+      alignment: 9
+      pivot: {x: 0.28724098, y: 0.46428314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc758c3a8ac846245b3a00cf62719d5d
+      internalID: 2027785790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1527
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.31732848, y: 0.56251806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543a5e9c83226543a253a4486a15f6f
+      internalID: -37756286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1522
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33924866, y: 0.62057114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc64f3204ab42349ae03142e55ab0c2
+      internalID: 141647000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1481
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608786485cc176e4dbafbfa301d780e7
+      internalID: 1461531290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1451
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb31db16f6004b4fade90eaf82c73cf
+      internalID: -1489998855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1419
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212115d45e905674b8dea8ab016f8e54
+      internalID: 710806072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1387
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cfeaea36b980d458f29952d14e500e
+      internalID: -228122745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1354
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f85e728d47863c4a85d77689f0f3c66
+      internalID: -242560690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1354
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a7736604901f419f123248e3c6223
+      internalID: 1915757637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1322
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bed6efe0e073e48ba032afac32e0cc
+      internalID: 847362307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1322
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cecd9ffdf30b44fb6d35a4f2e2940a
+      internalID: 453867960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1320
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af5d95cac0b9924594c5f9328e10aa0
+      internalID: -2033881232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1313
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b781ed26c10046943af28c2202ea67bb
+      internalID: -468729292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1314
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa37b490d030c848b8f66433a58768f
+      internalID: -1375417394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1275
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32129330046c444895eb4d855cc156
+      internalID: -2098942953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1275
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60b5beb50fbd043af69525d9840754
+      internalID: -979980251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1275
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7f83ead654b7d44b8a30d232594832
+      internalID: 1598881195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1274
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b715a0637c7ee40be08d3358ce2e73
+      internalID: 174127546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1274
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dec0478ee6b4a4dafc8d159d6472f7
+      internalID: -2074027643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1243
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2632764d25a894d954ec6a5ab80f78
+      internalID: 2006930839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1243
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d661a5186a63648972d6a37a466434
+      internalID: 1356078694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1243
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14afbc49e5b5e004dafa90009db55e0d
+      internalID: 1046333771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1242
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159db7623d69c8448bb6cde15b051385
+      internalID: 253948739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1242
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6f01bfe8299e459d093407391f0d2
+      internalID: -1455884379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be103f102b2d9e43aa4d253a311554d
+      internalID: -242257060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52006a48fdda99149a57cdf13df192f6
+      internalID: 2081158544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287004329478904d9b5f18dab40b340
+      internalID: -2000441970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1198
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e41b121095571408dc06b3ce8c3de2
+      internalID: -2032150844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7d711ca447d947a30e316bb0c0246
+      internalID: 934993039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b98c30d99789d429ba9fd02ec3fd95
+      internalID: -1932690609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1197
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729111077a6aba4d999adbcbc694f25
+      internalID: 1034276228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1198
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95823de746958a34b9fa34e2abbbf51c
+      internalID: -983956284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3fa962a1c2ad45804c57a855bbdc8
+      internalID: -578503632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aca04796c1a5424095d219c14ab702a
+      internalID: 1684396980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6faa6c81ed0244f92d005a64103300
+      internalID: 2029686533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500e35f0b1788746b3a94256c5a70b2
+      internalID: 902766803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db7917b03dfe94aab031632742d83c
+      internalID: -247078562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e254e23114e7499d5ce910e6e2cc9
+      internalID: -95034733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1165
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496328d5015d1c4b884d31e20076510
+      internalID: -1065601271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19617e8dfdc8ae44391f3e8d29b564c8
+      internalID: -1504461849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1134
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701883dd28066645a6ae3dd28ea298f
+      internalID: -802979410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1134
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddbf54ab4f74a94f97fb30472676cf9
+      internalID: -57228007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cbe21c93ef9c4692cb013207332f9
+      internalID: -1242602655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1134
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67d0211368b034a942f5571b41021e
+      internalID: 723188330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1134
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d81a4afd70dcb49a1de358074b84ee
+      internalID: 158718679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcdd14cac4d7ba47aa8f72632d6d61c
+      internalID: -1936597006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_84
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1134
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d2eef6735a4945a80be1db5540154
+      internalID: 1759253904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1134
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b33b222c4b08b740a237115e64f6305
+      internalID: -478303686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_86
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1102
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5700f6db5bec478aa5e25c3197372
+      internalID: 1593936175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e4a3a793f1dc4a8fad621abbcc3d8
+      internalID: -590086394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1102
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655be425476b944b8674d4158ebc557
+      internalID: 76057791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_89
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1102
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc29cac765bf145aabef17b711a104
+      internalID: 213740729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1102
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f016f0112f3683a4b8a580d303994d64
+      internalID: 889565518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a649716b42cbeb438a5a31b97c15545
+      internalID: 1447858693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_92
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f143f6e479172c43845aa6d1aa39a66
+      internalID: 1632850220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1102
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb424fade6a3e4ebd05c5ad0f669aa
+      internalID: 22024494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_94
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1051
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b508825161161347aa3c1f5e62c82a2
+      internalID: 977374127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1053
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7e176ef0cd3c46a3c0d7c82a0083b
+      internalID: -1858111296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1053
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71afe796d0190b440b54d8d9182aa41d
+      internalID: 1972333255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1053
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd9c08357fa8d4681d7a6fcc1fe23b
+      internalID: -1018388068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1013
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc71cece7557254cb69cef298516b8e
+      internalID: -156725969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1014
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad6fa6764229248bb2eea5feddcfeb
+      internalID: 2121548237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_100
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1014
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d094c7953427dc48822b878333bf02c
+      internalID: 1433761260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1014
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ccc47bc3ab40a48b1cff1c8601a841
+      internalID: 1720721684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 944
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd441109ac76f343aec1457b98900d3
+      internalID: 979176058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_103
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 944
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e4057d46851a4bacbc50ec7a1ff89
+      internalID: -354306795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 943
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6deae0ea32baa45bc8f6a453eefb3d
+      internalID: -1143938724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_105
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 939
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb1eb2c67cd33419b52df96a097cd3
+      internalID: -1889430332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 895
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ac25121f7282478b4058f1ab75258
+      internalID: -2066095217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_107
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 896
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4be979a3d3e74bb84867f334167ce
+      internalID: -1933994948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 893
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe21530a101eb4c9923ab3747bff37
+      internalID: 1162751172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 888
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0493b7a1d2c8ff48b4954ef642fa676
+      internalID: 1746916577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1831
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b365a7dee7d244da8dd378a5a238c0
+      internalID: -1042708578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1769
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5c9c7e65d2f2489c33d5889216a8a
+      internalID: 1208125726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1769
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e3a1ea7853274c92acd050daa1ee7
+      internalID: -2044003314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1736
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1c89f93372f840a46507f4e25701c
+      internalID: 632079737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1736
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffe98480e88a74abfb310074d401d1
+      internalID: 1825674592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapouSpriteOff_115
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1354
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b7d7db65c7f104a816841007091779
+      internalID: 1981052405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PapouSpriteOff_5: 344603967
+      PapouSpriteOff_26: -1773706249
+      PapouSpriteOff_54: 1598881195
+      PapouSpriteOff_16: 1161432586
+      PapouSpriteOff_110: -1042708578
+      PapouSpriteOff_67: -1932690609
+      PapouSpriteOff_55: 174127546
+      PapouSpriteOff_57: 2006930839
+      PapouSpriteOff_23: 572690350
+      PapouSpriteOff_37: 796507449
+      PapouSpriteOff_113: 632079737
+      PapouSpriteOff_96: 1972333255
+      PapouSpriteOff_34: 1783937094
+      PapouSpriteOff_112: -2044003314
+      PapouSpriteOff_7: 1758116774
+      PapouSpriteOff_59: 1046333771
+      PapouSpriteOff_9: -2140233368
+      PapouSpriteOff_45: -242560690
+      PapouSpriteOff_6: 1942143067
+      PapouSpriteOff_91: 1447858693
+      PapouSpriteOff_106: -2066095217
+      PapouSpriteOff_105: -1889430332
+      PapouSpriteOff_25: -1560066171
+      PapouSpriteOff_98: -156725969
+      PapouSpriteOff_28: -785767979
+      PapouSpriteOff_72: 2029686533
+      PapouSpriteOff_90: 889565518
+      PapouSpriteOff_0: -1110143336
+      PapouSpriteOff_114: 1825674592
+      PapouSpriteOff_51: -1375417394
+      PapouSpriteOff_35: 1452565646
+      PapouSpriteOff_8: 1303202194
+      PapouSpriteOff_60: 253948739
+      PapouSpriteOff_80: -1242602655
+      PapouSpriteOff_77: -1504461849
+      PapouSpriteOff_19: 1206707670
+      PapouSpriteOff_10: -1402396420
+      PapouSpriteOff_48: 453867960
+      PapouSpriteOff_83: -1936597006
+      PapouSpriteOff_49: -2033881232
+      PapouSpriteOff_97: -1018388068
+      PapouSpriteOff_65: -2032150844
+      PapouSpriteOff_2: -704353804
+      PapouSpriteOff_12: 1048814320
+      PapouSpriteOff_18: -1172119684
+      PapouSpriteOff_89: 213740729
+      PapouSpriteOff_22: 98898619
+      PapouSpriteOff_46: 1915757637
+      PapouSpriteOff_47: 847362307
+      PapouSpriteOff_66: 934993039
+      PapouSpriteOff_111: 1208125726
+      PapouSpriteOff_40: 141647000
+      PapouSpriteOff_39: -37756286
+      PapouSpriteOff_58: 1356078694
+      PapouSpriteOff_64: -2000441970
+      PapouSpriteOff_68: 1034276228
+      PapouSpriteOff_20: -1465348322
+      PapouSpriteOff_52: -2098942953
+      PapouSpriteOff_73: 902766803
+      PapouSpriteOff_79: -57228007
+      PapouSpriteOff_84: 1759253904
+      PapouSpriteOff_74: -247078562
+      PapouSpriteOff_14: 1869192317
+      PapouSpriteOff_63: 2081158544
+      PapouSpriteOff_109: 1746916577
+      PapouSpriteOff_21: 1439186133
+      PapouSpriteOff_36: -570962030
+      PapouSpriteOff_75: -95034733
+      PapouSpriteOff_11: 1623459126
+      PapouSpriteOff_43: 710806072
+      PapouSpriteOff_1: -1711393487
+      PapouSpriteOff_53: -979980251
+      PapouSpriteOff_104: -1143938724
+      PapouSpriteOff_56: -2074027643
+      PapouSpriteOff_32: 2046539520
+      PapouSpriteOff_31: 613140147
+      PapouSpriteOff_17: -1033070805
+      PapouSpriteOff_50: -468729292
+      PapouSpriteOff_107: -1933994948
+      PapouSpriteOff_76: -1065601271
+      PapouSpriteOff_81: 723188330
+      PapouSpriteOff_100: 1433761260
+      PapouSpriteOff_108: 1162751172
+      PapouSpriteOff_24: 632563205
+      PapouSpriteOff_71: 1684396980
+      PapouSpriteOff_94: 977374127
+      PapouSpriteOff_4: -1500238416
+      PapouSpriteOff_115: 1981052405
+      PapouSpriteOff_92: 1632850220
+      PapouSpriteOff_27: -56013132
+      PapouSpriteOff_42: -1489998855
+      PapouSpriteOff_62: -242257060
+      PapouSpriteOff_13: 919514175
+      PapouSpriteOff_86: 1593936175
+      PapouSpriteOff_41: 1461531290
+      PapouSpriteOff_30: 1724746741
+      PapouSpriteOff_69: -983956284
+      PapouSpriteOff_70: -578503632
+      PapouSpriteOff_3: 74623534
+      PapouSpriteOff_101: 1720721684
+      PapouSpriteOff_87: -590086394
+      PapouSpriteOff_38: 2027785790
+      PapouSpriteOff_85: -478303686
+      PapouSpriteOff_103: -354306795
+      PapouSpriteOff_44: -228122745
+      PapouSpriteOff_102: 979176058
+      PapouSpriteOff_88: 76057791
+      PapouSpriteOff_78: -802979410
+      PapouSpriteOff_82: 158718679
+      PapouSpriteOff_15: -23843360
+      PapouSpriteOff_29: -920778791
+      PapouSpriteOff_99: 2121548237
+      PapouSpriteOff_95: -1858111296
+      PapouSpriteOff_33: 847146841
+      PapouSpriteOff_61: -1455884379
+      PapouSpriteOff_93: 22024494
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
