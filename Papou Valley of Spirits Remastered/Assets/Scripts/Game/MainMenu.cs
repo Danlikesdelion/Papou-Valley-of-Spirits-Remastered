@@ -5,25 +5,33 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public string levelToLoad;
+
+    public GameObject creditsWindow;
+    [SerializeField] private AudioSource buttonclickopen;
+    [SerializeField] private AudioSource buttonclickclose;
+
+    public void StartGame()
     {
-        
+        buttonclickopen.Play();
+        SceneManager.LoadScene(levelToLoad);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OpenCreditsWindow()
     {
-        
+        buttonclickopen.Play();
+        creditsWindow.SetActive(true);
     }
 
-    public void NewGame()
+    public void CloseCreditsSWindow()
     {
-        SceneManager.LoadScene("Land");
+        buttonclickclose.Play();
+        creditsWindow.SetActive(false);
     }
 
-    public void QuitToDesktop()
+    public void QuitGame()
     {
+        buttonclickclose.Play();
         Application.Quit();
     }
 }
